@@ -2,6 +2,7 @@
 
 ### LAMECH
 ```
+  rf modulo
 ```
 
 ### SUNIL
