@@ -1,2 +1,2 @@
 # Intern
-the grop is for Lamech, Sunil, Rishi
+this group is for Lamech, Sunil, Rishi
